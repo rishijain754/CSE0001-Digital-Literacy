@@ -1,0 +1,14 @@
+Task 1: Digital Literacy Infographic
+For the opening task, I used Canva to design a visual guide covering digital tools, internet safety, and email etiquette. The goal was to transform dense information into a "snackable" format. I learned that a strong visual hierarchy—using icons instead of long paragraphs—makes educational content far more engaging for students.
+
+Task 2: Professional Portfolio Setup
+To establish my digital footprint, I optimized profiles on GitHub, LinkedIn, and Kaggle. These platforms serve as my technical "business card." Over the next four years, I plan to use GitHub for version control on all my coding projects and LinkedIn to build a network that will eventually bridge the gap between my academic studies and a professional career.
+
+Task 3: Technical Platforms and Collaboration
+I practiced foundational coding by completing the "Hello, World!" challenge on HackerRank, which helped me get used to competitive programming interfaces. Additionally, I used Google Workspace to build a digital literacy quiz. Linking Google Forms to Sheets showed me how to efficiently collect and analyze peer data, a skill that is essential for collaborative research.
+
+Task 4: Professional Communication
+Communication is about more than just words; it’s about clarity and tone. I drafted professional emails for extension requests and internship inquiries, ensuring they followed standard etiquette. I also developed a Social Media Do’s and Don’ts checklist, highlighting how a single "Reply-All" mistake or an unprofessional post can have long-term consequences on one's reputation.
+
+Task 5: Cybercrime Awareness and Prevention
+The final task involved a deep dive into Phishing and UPI fraud. What surprised me most was how sophisticated "false trust" has become—scammers can perfectly mirror university portals. As a result, I’ve adopted a "Zero Trust" habit: I now manually type URLs into my browser instead of clicking links in emails, ensuring I never accidentally land on a fraudulent site.

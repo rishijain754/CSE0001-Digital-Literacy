@@ -1,0 +1,5 @@
+Task 5 Report: Cybercrime Awareness and Prevention
+
+What surprised me most during this research was the sheer psychological precision of modern phishing attacks. I previously assumed that most "scams" were easy to spot due to poor grammar or obvious errors, but seeing how closely attackers can mirror official university portals and bank login pages was a wake-up call. The level of detail used to create "false trust" is sophisticated and makes it clear why even tech-savvy students fall victim to these traps.
+
+As a direct result, the one habit I am personally changing is my approach to link interaction. I will no longer click on "Action Required" links directly from emails or SMS, even if they appear to be from my bank or college. Instead, I will manually type the official website address into my browser or use the verified app. This small shift to a "Zero Trust" mindset is a simple but powerful way to ensure I never land on a fraudulent page.

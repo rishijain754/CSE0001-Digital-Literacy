@@ -1,0 +1,10 @@
+Task 1 Report: Digital Literacy Infographic
+
+
+Tool Used: Canva
+
+For this task, I used Canva to design a visual slide covering Digital Tools for Students, Safe Internet Practices, and Email Etiquette. I chose Canva because its library of academic icons and pre-set layouts allowed me to create a professional-looking infographic that remains highly readable.
+
+The design is split into three thematic zones. The top section introduces tools like Miro and Notion for collaboration. The middle section focuses on security, specifically the use of Two-Factor Authentication (2FA). The bottom section outlines the "Golden Rules" of email, such as using professional sign-offs.
+
+The most interesting part of the process was practicing visual hierarchy. I learned that using less text and more bold iconography actually makes the information more impactful. This tool will be incredibly useful for my future academic presentations where complex data needs to be simplified for an audience.

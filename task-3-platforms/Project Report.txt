@@ -1,0 +1,9 @@
+Task 3 Report: Technical Platforms and Collaboration
+
+Platforms Used: HackerRank, Google Workspace
+
+For the coding portion of this task, I used HackerRank to solve the "Hello, World!" challenge. While the logic is fundamental, the exercise was vital for learning how to navigate a competitive programming interface and handle standard output. It provided a clear introduction to the environment I will likely encounter during technical interview screenings.
+
+For the collaboration component, I used Google Forms to create a five-question "Digital Literacy Awareness Quiz" and linked it to Google Sheets for response tracking. This setup demonstrated how to collect and organize data from peers efficiently, featuring a mix of multiple-choice and short-answer questions to gauge digital safety knowledge.
+
+Academically, these tools are essential. HackerRank provides a structured way to improve my algorithmic thinking outside of lectures. Simultaneously, Google Workspace mastery allows me to lead group projects effectively by setting up automated data collection and collaborative documents. These platforms ensure I am prepared for both the technical and collaborative demands of a computer science degree.

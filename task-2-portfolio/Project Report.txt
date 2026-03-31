@@ -1,0 +1,9 @@
+Task 2 Report: Professional Portfolio Setup
+
+Platforms Used: GitHub, LinkedIn, Kaggle
+
+I established my professional digital footprint by setting up profiles on GitHub, LinkedIn, and Kaggle. These platforms serve different but complementary purposes: GitHub showcases my code, LinkedIn manages my professional network, and Kaggle demonstrates my data analysis skills.
+
+On GitHub, I created a profile README that introduces my academic background and my goal to contribute to open-source projects. On LinkedIn, I populated my education section with my current degree and institution to ensure I am visible to recruiters. On Kaggle, I set up a profile to begin participating in machine learning competitions.
+
+Over the next four years, I plan to use GitHub as a version-controlled archive for all my university projects. LinkedIn will be my primary tool for securing summer internships and connecting with industry mentors. Finally, I will use Kaggle to supplement my classroom learning with real-world datasets, ensuring my skills remain relevant to current industry standards.
